@@ -1,0 +1,12 @@
+{
+  "resourceName": "MyAmplifyDB",
+  "policyUUID": "0c5fa0fb",
+  "bucketName": "amplifyreactgraphql80ee3246c42542c4902ab4f2f982",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
